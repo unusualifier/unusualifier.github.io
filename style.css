@@ -11,18 +11,18 @@ body {
   
   h1 {
     color: white;
-    font-family: "Comic Sans MS";
+    font-family: 'JetBrains Mono', monospace;
     text-align: center;
   }
   
   p {
-    font-family: "Comic Sans MS";
+    font-family: 'JetBrains Mono', monospace;
     font-size: 20px;
     text-align: center;
   }
 
   button {
-      font-family: "Perfect DOS VGA 437 Win";
+    font-family: 'JetBrains Mono', monospace;
       font-size: 69px;
       color: limegreen;
   }
